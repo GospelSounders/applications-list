@@ -1,0 +1,26 @@
+{
+	"usermanagement": {
+		"name": "User Management",
+		"link": "http://usermanagement.gospelsounders.org",
+		"icon": "people",
+		"description": "User Management"
+	},
+	"bibletranslation": {
+		"name": "KJV Swahili",
+		"link": "http://bibletranslation.gospelsounders.org",
+		"icon": "library_books",
+		"description": "Bible Translation"
+	},
+	"adventhymnals": {
+		"name": "Advent Hymnals",
+		"link": "http://adventhymnalseditor.gospelsounders.org",
+		"icon": "music_note",
+		"description": "Advent Hymnals"
+	},
+	"sabbathschooleditor": {
+		"name": "Lesson Editor",
+		"link": "http://sabbathschooleditor.gospelsounders.org",
+		"icon": "edit",
+		"description": "Sabbath School Lesson Editor"
+	}
+}
